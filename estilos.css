@@ -1,0 +1,82 @@
+body{
+    background-color: white;
+}
+h1 {
+    color:white;
+font-family: 'Times New Roman', Times, serif;
+font-size: 200%;
+text-align: center;  
+     
+}
+h2 {
+
+    border: black 2px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 150%;
+   
+    
+}
+#fundo {
+    background-image: url(img/hexagonal-grid-background_52683-327.jpg)
+}
+#texto1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 120%;
+}
+#conteudo1 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 110%;
+}
+#imagem1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h3 {
+    text-align: center;
+}
+#conteudo2 {
+
+}
+h4 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 120%;
+}
+#img_fusão1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#fusão1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;          
+}
+#img_fusão2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#fusão2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;  
+}
+#fusão3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;
+    }
+    #img_fusão3 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    #Curiosidade1 {
+
+        font-family: 'Times New Roman', Times, serif;
+        border: black 2px solid;
+        text-align: center;
+    }
